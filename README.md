@@ -73,7 +73,6 @@ The script creates the database `ecommerce_order_management` and these tables:
 ```bash
 mysql -u your_username -p < ecommerce_order_management.sql
 ```
-
 Replace `your_username` with your MySQL username. Enter your password when prompted.
 
 > **Important:** The script begins with `DROP DATABASE IF EXISTS ecommerce_order_management;`. Running it will delete and recreate that database if it already exists. Back up any important data before executing it.
@@ -109,7 +108,6 @@ Save the SQL script in the repository using the filename `ecommerce_order_manage
 - The script is intended for learning and portfolio demonstration, not production deployment. A production system would need additional validation, transaction handling, permissions, and business rules.
 
 ## Author
-
 Add your name and links here:
 
 - **Name:** Rushikesh palade
