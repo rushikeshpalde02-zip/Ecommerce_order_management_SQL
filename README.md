@@ -10,6 +10,7 @@ The schema is inspired by the structure of the [Brazilian E-Commerce (Olist) dat
 
 ## Objectives
 
+
 - Design a relational database with primary and foreign key relationships.
 - Insert sample data to test the schema.
 - Retrieve and filter records using `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`.
@@ -17,6 +18,7 @@ The schema is inspired by the structure of the [Brazilian E-Commerce (Olist) dat
 - Combine related tables using joins and subqueries.
 - Practice CTEs, window functions, `CASE`, string/date functions, and `UNION`.
 - Create a view, stored procedure, trigger, and indexes.
+
 
 ## Database Schema
 
